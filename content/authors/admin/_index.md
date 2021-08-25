@@ -10,30 +10,31 @@ role: Data Services Librarian
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Middlebury
+  url: https://www.middlebury.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I help students, faculty, and staff find, use, and visualize data and other information. My research interests include information and data literacy, data visualization, library assessment, and user experience/service design.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Information/Data Literacy
+- Data Visualization
+- Library Assessment
+- User Experience/Service Design
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MSI in Library Science & Human-Computer Interaction
+    institution: University of Michigan School of Information
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA in Philosophy
+    institution: Temple University
+    year: 2006
+  - course: BA in Pyschology & Comparative Literature
+    institution: University of Michigan
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +46,17 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/rkclement
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=CQLVVjwAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4395-267X
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/rkclement
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +66,19 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "rclement@middlebury.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently the Data Services Librarian at [Middlebury College](https://go.middlebury.edu/library), in Middlebury, VT. I've been here since the fall of 2015. Before that, I was the Data Services Librarian at [Reed College](https://library.reed.edu), in Portland, OR.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As the Data Services Librarian, I provide general research and technology assistance to students, faculty, and staff at Middlebury, and specialized assistance to those working with data, particularly in the social sciences and humanities. I help with projects involving finding, acquiring, managing, interpreting, analyzing, and visualizing data. I also provide leadership in the development of digital scholarship support at the College. I have worked on support for text analysis, digitization, and qualitative data analysis.
+
+I also serve as the subject specialist in the library for the anthropology, economics, geography, linguistics, philosophy, and sociology departments, and serve as Middlebury's Government Documents Coordinator. At Reed College, I served as the subject specialist for the psychology and philosophy departments.
+
+In addition to my work with data services and digital scholarship support, I also work on library user experience, service design, and assessment. I am interested in critical perspectives on information literacy, data literacy, and data visualization.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
