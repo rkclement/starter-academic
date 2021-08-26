@@ -30,11 +30,16 @@ experience:
     date_start: '2015-09-15'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Head of the library digital scholarship team, MiddLab; former head of the Library User Experience team
+        * Provide specialized assistance to those working with data, particularly in the social sciences and humanities
+        * Assist with projects involving finding, acquiring, managing, interpreting, analyzing, and visualizing both quantitative and qualitative data
+        * Provide leadership in planning, support, and implementation of digital scholarship support
+        * Create documentation, tutorials, and tools to support general and specialized research needs
+        * Collaborate across departments to provide support for data-intensive research and teaching, including workshops, consultations, and review of research proposals and RDM strategies
+        * Assist in the investigation and development of strategies, workflows, and policies for institutional research data curation
+        * Serve as a liaison to Anthropology, Economics, Geography, Linguistics, Philosophy, and Sociology departments
+        * Serve as Middlebury's government documents coordinator for the Federal Depository Library Program
         
   - title: Professor of Semiconductor Physics
     company: University X
