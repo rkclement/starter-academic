@@ -26,7 +26,7 @@ experience:
     company: Middlebury
     company_url: 'https://www.middlebury.edu/library/'
     company_logo: midd-logo
-    location: Vermont
+    location: Middlebury, Vermont
     date_start: '2015-09-15'
     date_end: ''
     description: |2-
@@ -41,14 +41,20 @@ experience:
         * Serve as a liaison to Anthropology, Economics, Geography, Linguistics, Philosophy, and Sociology departments
         * Serve as Middlebury's government documents coordinator for the Federal Depository Library Program
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Data Services Librarian
+    company: Reed College
+    company_url: 'https://library.reed.edu/'
+    company_logo: reed-college-griffin-white
+    location: Portland, OR
+    date_start: '2013-09-15'
+    date_end: '2015-09-15'
+    description: |2-
+      
+      * Lead in planning, support, and implementation of data services. Created documentation and tutorials for research skills related to data discovery, analysis, and visualization.
+      * Collaborated across departments to provide comprehensive support for data-intensive courses.
+      * Assisted researchers in data management planning and execution, including the review of grant-required data management plans.
+      * Investigated and developed strategies, workflows, and policies for institutional research data curation.
+      * Served as a liaison to psychology and philosophy departments
 
 design:
   columns: '2'
