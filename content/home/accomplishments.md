@@ -23,30 +23,32 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://rkclement.com/rkc-carpentries-cert.pdf
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
+  date_start: "2018-11-20"
+  description: **Received certification to teach Software Carpentry, Data Carpentry, and Library Carpentry workshops**. Learned pedagogical concepts and evidence-based teaching practices such as crafting learning outcomes, live coding, formative assessment, and techniques for motivating diverse learners. Learned to apply these concepts to workshops teaching coding and data manipulation for novice learners. 
+  organization: The Carpentries
+  organization_url: https://carpentries.org/
   title: Carpentries Instructor Training
-  url: ""
-- certificate_url: https://www.edx.org
+  url: https://carpentries.org/become-instructor/
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2017-11-03"
+  description: Identified methods for connecting assessment projects to institutional
+goals and communicating their results. Learned how to apply action research
+methodology to personal and institutional assessment projects.
+  organization: ACRL
+  organization_url: https://www.ala.org/acrl/
+  title: ACRL Assessment in Action workshop
+  url: https://www.ala.org/acrl/conferences/roadshows/aiaroadshow
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-07-25"
+  description: Learned to design meaningful instructional activities in a systematic fashion. Analyzed and assessed personal habits, motivations, and styles to improve instructional repetoire. Learned assessment techniques and strategies to improve practice and outcomes.
+  organization: ACRL
+  organization_url: https://www.ala.org/acrl/
+  title: 'ACRL Immersion: Teacher Track'
+  url: https://www.ala.org/acrl/conferences/immersion
 
 design:
   columns: '2' 
