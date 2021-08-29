@@ -26,7 +26,7 @@ item:
 - certificate_url: https://rkclement.com/rkc-carpentries-cert.pdf
   date_end: ""
   date_start: "2018-11-20"
-  description: **Received certification to teach Software Carpentry, Data Carpentry, and Library Carpentry workshops**. Learned pedagogical concepts and evidence-based teaching practices such as crafting learning outcomes, live coding, formative assessment, and techniques for motivating diverse learners. Learned to apply these concepts to workshops teaching coding and data manipulation for novice learners. 
+  description: Received certification to teach Software Carpentry, Data Carpentry, and Library Carpentry workshops. Learned pedagogical concepts and evidence-based teaching practices such as crafting learning outcomes, live coding, formative assessment, and techniques for motivating diverse learners. Learned to apply these concepts to workshops teaching coding and data manipulation for novice learners. 
   organization: The Carpentries
   organization_url: https://carpentries.org/
   title: Carpentries Instructor Training
