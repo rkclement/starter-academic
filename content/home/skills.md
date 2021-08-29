@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Software & Coding Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -28,6 +28,7 @@ feature:
   icon: open-data
   icon_pack: ai
   name: Open Data
+
 - description: advanced
   icon: terminal
   icon_pack: fas
@@ -78,20 +79,31 @@ feature:
   icon_pack: fas
   name: Stata
 
+- description: fundamentals
+  icon: map-marked-alt
+  icon_pack: fas
+  name: ArcGIS 
+- description: fundamentals
+  icon: overleaf
+  icon_pack: ai
+  name: LaTeX/Overleaf 
+- description: fundamentals
+  icon: database
+  icon_pack: fas
+  name: MySQL 
+- description: fundamentals
+  icon: table
+  icon_pack: fas
+  name: NVivo 
+- description: fundamentals
+  icon: landmark
+  icon_pack: fas
+  name: Omeka 
+- description: fundamentals
+  icon: osf
+  icon_pack: ai
+  name: OSF
 
-  
-- description: advanced
-  icon: terminal
-  icon_pack: fas
-  name: Bash/Zsh/Unix Shell 
-- description: advanced
-  icon: terminal
-  icon_pack: fas
-  name: Bash/Zsh/Unix Shell 
-- description: advanced
-  icon: terminal
-  icon_pack: fas
-  name: Bash/Zsh/Unix Shell 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
