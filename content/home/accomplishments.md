@@ -34,8 +34,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2017-11-03"
-  description: Identified methods for connecting assessment projects to institutional
-goals and communicating their results. Learned how to apply action research methodology to personal and institutional assessment projects.
+  description: Identified methods for connecting assessment projects to institutional goals and communicating their results. Learned how to apply action research methodology to personal and institutional assessment projects.
   organization: ACRL
   organization_url: "https://www.ala.org/acrl/"
   title: ACRL Assessment in Action workshop
