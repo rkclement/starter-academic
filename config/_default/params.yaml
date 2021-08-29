@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: rkclement@gmail.com
-phone: 888 888 88 88
+phone: ""
 address:
   street: 110 Storrs Ave
   city: Middlebury
@@ -30,8 +30,8 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '44.009480'
+  longitude: '-73.174440'
 directions: Enter Davis Family Library, find office LIB 211 along the southern wall of the main level
 appointment_url: 'http://go.middlebury.edu/ryan'
 contact_links:

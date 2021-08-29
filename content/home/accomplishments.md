@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Professional Development'
 subtitle:
 
 # Date format
@@ -47,6 +47,22 @@ item:
   organization_url: "https://www.ala.org/acrl/"
   title: 'ACRL Immersion: Teacher Track'
   url: "https://www.ala.org/acrl/conferences/immersion"
+- certificate_url: ""
+  date_end: ""
+  date_start: "2015-06-24"
+  description: Learned tools such as OpenRefine, Python, and the Bash shell for use in data science. Learned about the Data Carpentry method and plan for instruction.
+  organization: The Carpentries
+  organization_url: "https://carpentries.org"
+  title: 'Data Carpentry'
+  url: "https://datacarpentry.org/lessons/#social-science-curriculum"
+- certificate_url: ""
+  date_end: ""
+  date_start: "2014-08-04"
+  description: Learned methods for managing data collections, providing data reference services, research data management and curation, and building a sustainable data services program.
+  organization: ICPSR
+  organization_url: "https://www.icpsr.umich.edu/"
+  title: 'Providing Social Science Data Services (ICPSR Summer Workshop Series)'
+  url: "https://www.icpsr.umich.edu/files/sumprog/biblio/2014/Providing%20Social%20Science%20Data%20Services%20Strategies%20for%20Design%20and%20Operation.pdf" 
 
 design:
   columns: '2' 
