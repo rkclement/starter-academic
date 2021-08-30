@@ -12,7 +12,7 @@ abstract: |2-
 
   This work grows out of the IMLS funded “Visualizing the Future” grant (RE-73-18-0059-18) designed to develop a literacy-based instructional and research agenda for library and information professionals advancing data visualization instruction and use beyond hands-on, technology-based tutorials toward a nuanced, critical understanding. All four panelists are currently working on the grant project.
 
-slides: "https://docs.google.com/presentation/d/1mDi52QCbMTTqJ1qfhpukxbNeinlk9NMzf_ODTcv5iw0/edit?usp=sharing"
+slides: ""
 url_pdf: ""
 summary: ""
 date_end: ""
@@ -26,7 +26,7 @@ authors:
 url_video: ""
 date: "2021-05-18"
 featured: false
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/1mDi52QCbMTTqJ1qfhpukxbNeinlk9NMzf_ODTcv5iw0/edit?usp=sharing"
 address: []
 title: "Given Meaning: Centering the Work of Data Visualization in Instruction"
 location: Online
