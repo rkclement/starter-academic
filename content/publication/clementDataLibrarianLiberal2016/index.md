@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Databrarianship: The Academic Data Librarian in Theory and Practice*
+publication: '*Databrarianship: The Academic Data Librarian in Theory and Practice*'
 publication_short: Databrarianship
 
 abstract: For decades, research universities and libraries have been developing services and support for working with administrative, research, and government data. These services have grown in response to the massive amounts of data researchers in these institutions work with. Typically, the support includes data management planning, data analysis consultation, software instruction and support, and data discovery and acquisition. More recently, smaller liberal arts colleges have begun to develop their own data services and support. These programs are often modeled on the programs in larger research-intensive institutions, a common pattern from past developments in library services. This model has served liberal arts libraries well, allowing them to take advantage of advances from the universities, where larger budgets and staff sizes tend to make innovation easier. In developing these data services, though, the liberal arts data librarian needs to not only look to the large research university for inspiration, but also needs to focus on what makes the liberal arts experience unique, and how this affects the development of data services.
