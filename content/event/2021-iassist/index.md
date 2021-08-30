@@ -23,7 +23,7 @@ authors:
   - Justin Joque
   - Andy Rutkowski
 
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=T9kYsCrjxmA&t=2416s"
 date: "2021-05-18"
 featured: false
 url_slides: "https://docs.google.com/presentation/d/1mDi52QCbMTTqJ1qfhpukxbNeinlk9NMzf_ODTcv5iw0/edit?usp=sharing"
