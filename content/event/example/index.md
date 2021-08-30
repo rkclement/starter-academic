@@ -17,7 +17,11 @@ url_pdf: ""
 summary: ""
 date_end: ""
 event_url: https://whova.com/web/iassi_202102/
-authors: []
+authors: 
+  - admin
+  - Amy Sonnichsen
+  - Justin Joque
+  - Andy Rutkowski
 url_video: ""
 date: "2021-05-18""
 featured: false
