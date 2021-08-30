@@ -1,32 +1,35 @@
 ---
-title: "The Data Librarian in the Liberal Arts College"
+title: "Team-Based Data Management Instruction at Small Liberal Arts Colleges"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Amy Blau
+- Parvaneh Abbaspour
+- Eli Gandour-Rood
 
 # Author notes (optional)
 author_notes: []
 
-date: "2016"
-doi: ""
+date: "2017"
+doi: "10.1177/0340035216678239"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-06-15"
+publishDate: "2017-03-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: '*Databrarianship: The Academic Data Librarian in Theory and Practice*'
-publication_short: Databrarianship
+publication: '*IFLA Journal*'
+publication_short: ""
 
-abstract: For decades, research universities and libraries have been developing services and support for working with administrative, research, and government data. These services have grown in response to the massive amounts of data researchers in these institutions work with. Typically, the support includes data management planning, data analysis consultation, software instruction and support, and data discovery and acquisition. More recently, smaller liberal arts colleges have begun to develop their own data services and support. These programs are often modeled on the programs in larger research-intensive institutions, a common pattern from past developments in library services. This model has served liberal arts libraries well, allowing them to take advantage of advances from the universities, where larger budgets and staff sizes tend to make innovation easier. In developing these data services, though, the liberal arts data librarian needs to not only look to the large research university for inspiration, but also needs to focus on what makes the liberal arts experience unique, and how this affects the development of data services.
+abstract: This paper describes a collaborative approach taken by librarians at five small, regional liberal arts colleges to developing/enhancing research data management services on their campuses. The five colleges collectively belong to a consortium known as the Northwest Five Consortium. Over 10 months, librarians from the five schools collaborated to plan a data management and curation workshop with the goals of developing relationships with researchers working with data, developing their own research data management skills and services, and building a model for future training and outreach around institutional research data management services. This workshop brought together research teams including faculty, students, and librarians, and incorporated active learning modules as well as in-depth pre-workshop discussion. This article will discuss the context and background for this workshop, the model itself, and the outcomes and possibilities for future developments.
 
 tags: []
 
