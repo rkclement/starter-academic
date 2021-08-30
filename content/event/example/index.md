@@ -1,5 +1,5 @@
 ---
-abstract: >-
+abstract: |2-
 This presentation will focus on the relationship between data visualization and the production of meaning. The panelists will address teaching data visualization skills, especially to undergraduate students, in ways that center literacy, representation, design, aesthetics and critical approaches rather than exclusively focusing on specific technologies and tools.
 
 Amy Sonnichsen will discuss how visualization was the combinative factor in centering a course on community and interdisciplinary scholarship. She will share the instructional outcomes that emerged in the classroom through the focus on methods for making meaning and visual connections between data and disciplines.
