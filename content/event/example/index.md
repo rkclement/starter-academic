@@ -22,8 +22,9 @@ authors:
   - Amy Sonnichsen
   - Justin Joque
   - Andy Rutkowski
+
 url_video: ""
-date: "2021-05-18""
+date: "2021-05-18"
 featured: false
 url_slides: ""
 address: []
