@@ -35,9 +35,7 @@ event: IASSIST Global Virtual Conference
 publishDate: 2021-08-30T03:32:10.746Z
 tags: []
 projects: []
-image:
-  caption: ""
-  focal_point: ""
+image: ""
 url_code: ""
 all_day: false
 ---
