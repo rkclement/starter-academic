@@ -1,73 +1,52 @@
 ---
-title: Example Talk
+abstract: >-
+  This presentation will focus on the relationship between data visualization
+  and the production of meaning. The panelists will address teaching data
+  visualization skills, especially to undergraduate students, in ways that
+  center literacy, representation, design, aesthetics and critical approaches
+  rather than exclusively focusing on specific technologies and tools.
 
-event: Wowchemy Conference
-event_url: https://example.org
 
-location: Wowchemy HQ
+  Amy Sonnichsen will discuss how visualization was the combinative factor in centering a course on community and interdisciplinary scholarship. She will share the instructional outcomes that emerged in the classroom through the focus on methods for making meaning and visual connections between data and disciplines.
+
+
+  Andy Rutkowski will explain the concept of “writing with technology” in the context of a freshman writing course. He will focus on the importance of making space and time in the creation and interpretation of visualizations and how the process of visualizing data is sometimes more important than the end results.
+
+
+  Justin Joque will focus on the work of French cartographer Jacques Bertin, especially from his 1960s text The Semiology of Graphics. This work provides an enduring foundation from which to understand visualization. This presentation will provide a critical overview of core concepts and suggest its continued relevance to understanding and teaching data visualization.
+
+
+  Ryan Clement will explore teaching novices (e.g. new librarians, first-year undergrads, unfamiliar faculty) about data visualization as a form of communicating. Drawing from recent research and work, he will address the particular challenges and solutions in working with novices, and how this can complement/challenge the ‘in-class’ lessons from faculty.
+
+
+  This work grows out of the IMLS funded “Visualizing the Future” grant (RE-73-18-0059-18) designed to develop a literacy-based instructional and research agenda for library and information professionals advancing data visualization instruction and use beyond hands-on, technology-based tutorials toward a nuanced, critical understanding. All four panelists are currently working on the grant project.
+slides: ""
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+date_end: 2021-05-18T18:00:00.000Z
+event_url: https://whova.com/web/iassi_202102/
+authors: []
+url_video: ""
+date: 2021-05-18T17:00:00.000Z
+featured: false
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+title: "Given Meaning: Centering the Work of Data Visualization in Instruction"
+location: Online
+links: []
+event: IASSIST Global Virtual Conference
+publishDate: 2021-08-30T03:32:10.746Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  caption: ""
+  focal_point: ""
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- example
+all_day: false
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vROw3nun8egG9dmP0ZqTeNIajsyAagG45HsOw9oIAA_cRnXzpCZW2SIRBLDct4B9L9L0gsfvKB28Ka8/embed?start=false&loop=false&delayms=3000" >}}
