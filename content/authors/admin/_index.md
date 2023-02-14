@@ -81,4 +81,4 @@ I also serve as the subject specialist in the library for the anthropology, econ
 In addition to my work with data services and digital scholarship support, I also work on library user experience, service design, and assessment. I am interested in critical perspectives on information literacy, data literacy, and data visualization.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rkclement.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rkclement_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
